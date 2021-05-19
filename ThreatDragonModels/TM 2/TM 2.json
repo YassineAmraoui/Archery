@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "TM 2",
+    "owner": "TM 2",
+    "description": "TM 2"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "TM 2"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "TM 2",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "TM 2"
+  }
+}
