@@ -1,7 +1,7 @@
 {
   "summary": {
     "title": "TM 2",
-    "owner": "TM 2",
+    "owner": "yass",
     "description": "TM 2"
   },
   "detail": {
@@ -12,7 +12,7 @@
     ],
     "diagrams": [
       {
-        "title": "TM 2",
+        "title": "TM",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
